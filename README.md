@@ -8,5 +8,6 @@ I'm an analyst for Gilder, and write software to help my guide my stock picks. A
 - 🤔 I’m looking for help with app development with Flutter/Dart.
 
 - 📫 How to reach me: DM me on [linkedin](https://www.linkedin.com/in/tumas-r-918bb6125/)
+- 🔭 Learn more at my website: [tumasr.ai](https://tumasr.ai)
 - 😄 Pronouns: They/Them or He/Him
 - ⚡ Fun fact: I have an irrational fear of swans
