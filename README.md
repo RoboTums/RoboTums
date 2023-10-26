@@ -1,6 +1,6 @@
 ### Hi there, I'm Tumas 👋
 
-I'm a Software Engineer at Rogo, where I'm helping build the next era of research tools in Finance and Consulting. Used to pick stocks at Gilder. Previously I worked in AI research, working in Reinforcement Learning, where I became fascinated by emergence. I'm fascinated with the concept that smaller things working together can create an effect bigger than anything any one of us can do.
+I'm the CTO of Rogo, where I'm helping build the next era of research tools in Finance. Used to pick stocks at Gilder. Previously I worked in AI research, working in Reinforcement Learning, where I became fascinated by emergence. I'm fascinated with the concept that smaller things working together can create an effect bigger than anything any one of us can do.
 
 - 🔭 I’m currently working on finding the most exciting stories in tech, especially with public companies. 
 - 🌱 I’m currently learning [Pyro](https://pyro.ai/), Uber's Probabilistic Programming Language to model non-linear dynamical systems in finance.
